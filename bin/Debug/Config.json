@@ -1,0 +1,8 @@
+{
+  "CrosshairWidth": 2,
+  "CrosshairHeight": 15,
+  "Offset": 5,
+  "ShowCenterDot": false,
+  "CrosshairColor": "#000000",
+  "DotColor": "#000000"
+}

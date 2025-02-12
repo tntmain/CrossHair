@@ -1,0 +1,15 @@
+D:\Cross\Cross\bin\Debug\CrossHair.exe.config
+D:\Cross\Cross\bin\Debug\CrossHair.exe
+D:\Cross\Cross\bin\Debug\CrossHair.pdb
+D:\Cross\Cross\bin\Debug\Newtonsoft.Json.dll
+D:\Cross\Cross\bin\Debug\Newtonsoft.Json.xml
+D:\Cross\Cross\obj\Debug\CrossHair.csproj.AssemblyReference.cache
+D:\Cross\Cross\obj\Debug\CrossHair.Resources.Resource1.resources
+D:\Cross\Cross\obj\Debug\CrossHair.SettingsForm.resources
+D:\Cross\Cross\obj\Debug\CrossHair.CrosshairForm.resources
+D:\Cross\Cross\obj\Debug\CrossHair.Properties.Resources.resources
+D:\Cross\Cross\obj\Debug\CrossHair.csproj.GenerateResource.cache
+D:\Cross\Cross\obj\Debug\CrossHair.csproj.CoreCompileInputs.cache
+D:\Cross\Cross\obj\Debug\CrossHair.csproj.CopyComplete
+D:\Cross\Cross\obj\Debug\CrossHair.exe
+D:\Cross\Cross\obj\Debug\CrossHair.pdb
