@@ -39,7 +39,7 @@
    ```
 2. Откройте решение в **Visual Studio**.
 3. Соберите проект (Build Solution).
-4. Запустите `Cross.exe` из папки `bin`.
+4. Запустите `CrossHair.exe` из папки `bin`.
 
 ---
 
